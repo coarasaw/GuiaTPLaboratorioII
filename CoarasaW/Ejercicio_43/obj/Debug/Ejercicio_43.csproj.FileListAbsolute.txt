@@ -1,0 +1,13 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\bin\Debug\Ejercicio_43.exe.config
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\bin\Debug\Ejercicio_43.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\bin\Debug\Ejercicio_43.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\bin\Debug\Ejercicio_43.exe.config
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\bin\Debug\Ejercicio_43.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\bin\Debug\Ejercicio_43.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.csproj.CoreCompileInputs.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_43\obj\Debug\Ejercicio_43.pdb

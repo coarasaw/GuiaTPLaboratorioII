@@ -1,0 +1,7 @@
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\bin\Debug\Ejemplo_11.exe.config
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\bin\Debug\Ejemplo_11.exe
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\bin\Debug\Ejemplo_11.pdb
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\obj\Debug\Ejemplo_11.csprojAssemblyReference.cache
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\obj\Debug\Ejemplo_11.csproj.CoreCompileInputs.cache
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\obj\Debug\Ejemplo_11.exe
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejemplo_11\obj\Debug\Ejemplo_11.pdb

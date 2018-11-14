@@ -1,0 +1,22 @@
+$Recycle.Bin
+$WINDOWS.~BT
+Archivos de programa
+CoarasaW
+code
+Config.Msi
+CONNX32
+Desarrollo
+Documents and Settings
+inetpub
+Intel
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+SQLServer2017Media
+System Volume Information
+Users
+usr
+WIN 10
+Windows

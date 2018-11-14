@@ -1,0 +1,7 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\bin\Debug\path.exe.config
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\bin\Debug\path.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\bin\Debug\path.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\obj\Debug\path.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\obj\Debug\path.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\obj\Debug\path.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\path\path\obj\Debug\path.pdb

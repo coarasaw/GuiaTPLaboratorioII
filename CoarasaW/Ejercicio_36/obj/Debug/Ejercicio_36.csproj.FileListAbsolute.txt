@@ -1,0 +1,14 @@
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\bin\Debug\Ejercicio_36.exe.config
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\bin\Debug\Ejercicio_36.exe
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\bin\Debug\Ejercicio_36.pdb
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.csprojAssemblyReference.cache
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.csproj.CoreCompileInputs.cache
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.exe
+C:\03_App_Wally\Z_UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\bin\Debug\Ejercicio_36.exe.config
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\bin\Debug\Ejercicio_36.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\bin\Debug\Ejercicio_36.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.csprojAssemblyReference.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.csproj.CoreCompileInputs.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_36\obj\Debug\Ejercicio_36.pdb

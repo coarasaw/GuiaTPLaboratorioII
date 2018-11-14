@@ -1,0 +1,10 @@
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\bin\Debug\Ejercicio_63.exe.config
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\bin\Debug\Ejercicio_63.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\bin\Debug\Ejercicio_63.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.csprojAssemblyReference.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.Form1.resources
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.Properties.Resources.resources
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.csproj.GenerateResource.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.csproj.CoreCompileInputs.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\Ejercicio_63\obj\Debug\Ejercicio_63.pdb

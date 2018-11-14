@@ -1,0 +1,14 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\bin\Debug\SerializacionXML.exe.config
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\bin\Debug\SerializacionXML.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\bin\Debug\SerializacionXML.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.exe
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\bin\Debug\SerializacionXML.exe.config
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\bin\Debug\SerializacionXML.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\bin\Debug\SerializacionXML.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.csprojAssemblyReference.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.csproj.CoreCompileInputs.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.exe
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\SerializacionXML\obj\Debug\SerializacionXML.pdb

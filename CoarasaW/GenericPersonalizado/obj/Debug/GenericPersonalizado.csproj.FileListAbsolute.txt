@@ -1,0 +1,12 @@
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\bin\Debug\GenericPersonalizado.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\bin\Debug\GenericPersonalizado.pdb
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.csprojAssemblyReference.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.csproj.CoreCompileInputs.cache
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.dll
+C:\CoarasaW\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\bin\Debug\GenericPersonalizado.dll
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\bin\Debug\GenericPersonalizado.pdb
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.csprojAssemblyReference.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.csproj.CoreCompileInputs.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.dll
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\GenericPersonalizado\obj\Debug\GenericPersonalizado.pdb

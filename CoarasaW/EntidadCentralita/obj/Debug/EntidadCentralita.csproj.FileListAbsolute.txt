@@ -1,0 +1,2 @@
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\EntidadCentralita\obj\Debug\EntidadCentralita.csprojAssemblyReference.cache
+E:\UTN\2018\SegundoCuatrimestre\Practica\CoarasaW\EntidadCentralita\obj\Debug\EntidadCentralita.csproj.CoreCompileInputs.cache
